@@ -1,0 +1,8 @@
+Download Node.js and React 
+Create a folder with the name that you want
+Open this folder and click on the right button
+Find "terminal" and click in open
+In the terminal, put "npx  create-react-app my-app" and execute
+in the final put "cd my-app" and "npm start"
+with this, the react will be ready to code!
+Good studies Aki! :D
