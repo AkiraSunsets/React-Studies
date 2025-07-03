@@ -1,0 +1,26 @@
+.Menu{
+    display: flex;
+    justify-content: space-between; /*separa os componentes*/
+    padding: 10px;
+    background-color: #0000CF; 
+}
+
+.header__menu a{
+    margin-right: 20px; /*separa os componentes*/
+    text-decoration: underline aqua 3px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    
+}
+
+
+
+.header__logo h2{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header__logo img{
+    
+}
